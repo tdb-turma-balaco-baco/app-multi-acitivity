@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppMultiActivity</string>
+    <string name="validation_message">Entre com valores válidos!</string>
 </resources>
